@@ -3,4 +3,4 @@ prefix=ss
 game=ssplay
 stayinchannel=true
 songinstatus=false
-token=NjA0MTExMTk5NDU3NjQwNDU4.XTpMiQ._XZQaC1iIxMvhArOtUDvewWZUtE
+token=NjA0MTExMTk5NDU3NjQwNDU4.XTpOnw.DHebGZNKgsxFEoXqnTut1BHsZ0A
