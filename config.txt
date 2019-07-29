@@ -1,6 +1,0 @@
-﻿owner=280319019528093696
-prefix=ss
-game=ssplay
-stayinchannel=true
-songinstatus=false
-token=NjA0MTExMTk5NDU3NjQwNDU4.XTpOnw.DHebGZNKgsxFEoXqnTut1BHsZ0A
